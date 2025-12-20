@@ -76,11 +76,5 @@ Many of my repositories reflect **real-world usage**, not demos.
 
 ---
 
-## 📫 Connect
-
-- GitHub: https://github.com/
-
----
-
 ⭐ If you find my work useful, consider starring the repositories you like.
 
